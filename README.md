@@ -8,4 +8,4 @@ The project Euler problems are fun mathematical questions that can be solved alg
 
 Each solution includes time performance measuring.
 
-##### **Available at [ProjectEuler.net](https://projecteuler.net/).**
+#### **Available at [ProjectEuler.net](https://projecteuler.net/).**
